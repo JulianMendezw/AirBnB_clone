@@ -82,3 +82,7 @@
 .description p {
 	text-align: justify;
 }
+
+footer {
+	position: relative;
+}
